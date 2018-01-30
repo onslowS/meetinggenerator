@@ -1,0 +1,11 @@
+This was a little bit of code for an interview.
+
+They wanted a meeting generator for the next six months.
+
+They had a mid-morning (14th) meeting and a last day of the month meeting.
+
+If the mid-morning meeting falls on a Saturday or Sunday then the mid-month meeting should be arranged for the following Monday.
+
+If the last day of the month falls on a Friday, Saturday or Sunday then the meeting should be set for the previous Thursday.
+
+
